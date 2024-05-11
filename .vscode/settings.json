@@ -1,0 +1,11 @@
+{
+	"editor.defaultFormatter": "ms-vscode.cpptools",
+	"files.associations": {
+		"ostream": "cpp",
+		"iostream": "cpp",
+		"deque": "cpp",
+		"list": "cpp",
+		"string": "cpp",
+		"vector": "cpp"
+	}
+}
